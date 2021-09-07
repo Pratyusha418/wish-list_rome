@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Wish Item item</name>
+        <parent>d54b7b3b071230102656f26d7c1ed07a</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 05:48:13</sys_created_on>
+        <sys_id>d94b7b3b071230102656f26d7c1ed07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Item item</sys_name>
+        <sys_package display_value="Wish List" source="x_357365_wish_list">af0af3f3071230102656f26d7c1ed03d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">af0af3f3071230102656f26d7c1ed03d</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_d94b7b3b071230102656f26d7c1ed07a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 05:48:13</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
